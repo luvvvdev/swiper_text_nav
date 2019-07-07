@@ -4,13 +4,11 @@ version: 1.0.0
 author: b4byh3ll <c4xbit@gmail.com>
 homepage: https://github.com/babyhell/swiper_text_nav
 
-version: 1.0.0+1
 environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
-  page_view_indicator: ^2.0.0
-  flutter_swiper : ^1.1.
+  flutter_swiper : ^1.1.6
   http: ^0.12.0+2
   flutter:
     sdk: flutter
