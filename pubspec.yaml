@@ -1,8 +1,8 @@
 name: swiper_text_nav
 description: Additional package for Swiper.
 version: 1.0.0
-author: b4byh3ll <c4xbit@gmail.com>
-homepage: https://github.com/babyhell/swiper_text_nav
+author: luvpack <mandelstam@yandex.com>
+homepage: https://github.com/luvpack/swiper_text_nav
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
